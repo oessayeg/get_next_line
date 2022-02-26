@@ -1,6 +1,6 @@
 # get_next_line
 
-This is a project of the first circle of the 42cursus.
+This is a project from the first circle of the 42cursus.
 
 ### Objectives
   * Code a function that reads a file with a certain size given (bytes to read) until finding a line and returns it using only one static variable.
