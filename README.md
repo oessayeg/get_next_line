@@ -11,7 +11,7 @@ This is a project from the first circle of the 42cursus.
   * malloc
   * free
 
-### What I learnt from this project
+### What I've learnt from this project
   * Problem solving
   * Unix logic
   * Management of memory leaks
