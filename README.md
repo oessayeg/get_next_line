@@ -1,4 +1,4 @@
-# get_next_line
+# Get_next_line
 
 This is a project from the first circle of the 42cursus.
 
