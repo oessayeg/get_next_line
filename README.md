@@ -16,8 +16,5 @@ This is a project from the first circle of the 42cursus.
   * Unix logic
   * Management of memory leaks
 
-### Final grade
-125/100.
-
 ### How to use
   * Compile the files using the -D option and give BUFFER_SIZE (bytes to read) a value. Example (gcc *.c -D BUFFER_SIZE='size')
